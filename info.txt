@@ -1,0 +1,27 @@
+
+#Chave da API
+b2d7473acfcfa2cb6a5ee559059a4ca4
+
+#API do Token de Acesso de Leitura
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiMmQ3NDczYWNmY2ZhMmNiNmE1ZWU1NTkwNTlhNGNhNCIsIm5iZiI6MTcyMjg2OTA0Ni4wODIzMiwic3ViIjoiNjZiMGUxODMzNTM3YzE3YWJjYzYwNjc2Iiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.M-Bfp16hnkUnqJFxz_pR17O4TcrHxFT03IHES2mKIuc
+
+
+#exemplo
+
+
+curl --request GET \
+     --url 'https://api.themoviedb.org/3/movie/11?api_key=b2d7473acfcfa2cb6a5ee559059a4ca4'
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
